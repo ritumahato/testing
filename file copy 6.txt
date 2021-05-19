@@ -3,3 +3,10 @@ Ritu Mahato
 initialize :- git init
 
 status :- git status
+
+add new file to git :-
+git add "file.txt"
+git add .
+
+commit :-
+git commit -m "message"
